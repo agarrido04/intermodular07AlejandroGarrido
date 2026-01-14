@@ -1,5 +1,5 @@
 # Proyecto Intermodular 06
-## HTM + GitHub Pages + Vercel
+## HTML + GitHub Pages + Vercel
 
 | **Nombre** | **Imagen** |
 |-----------|-----------------------------|
